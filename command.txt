@@ -2,3 +2,5 @@ git init--> to initialise git
 git status-->list all untracked files
 git add-->adding all changes to staging area
 git commit -m "your msg" -->adding changes to local repository
+git remote add name path
+git push -u name master
